@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shopcart-ui-ts",
-    "slug": "shopcart-ui-ts",
+    "name": "tipApp-ts",
+    "slug": "tipApp-ts",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
